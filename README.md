@@ -3,7 +3,7 @@
 This repo contains the code used to perform **variational** inference in the
 following graphical model:
 
-<img src="plots/graphical_model.png" alt="Graphical Model" width="200" height="200">
+<img src="plots/graphical_model.png" alt="Graphical Model" width="400" height="200">
 
 
 The model is implemented in PyTorch and for the logs the wandb library is
